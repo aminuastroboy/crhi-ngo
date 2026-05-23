@@ -61,7 +61,7 @@ export default function CRHIHomepage() {
 
           <div>
             <h2 className="text-lg font-bold text-white">
-              Children Raybridge of Hope Initiative
+              Children's Raybridge of Hope Initiative
             </h2>
             <p className="text-sm text-slate-200">Building Bridges of Hope</p>
           </div>
@@ -69,7 +69,7 @@ export default function CRHIHomepage() {
 
         <div className="relative z-10 max-w-5xl px-6 text-center">
           <span className="mb-6 inline-block rounded-full border border-orange-400/30 bg-orange-500/20 px-5 py-2 text-sm text-orange-300">
-            Children Raybridge of Hope Initiative
+            Children's Raybridge of Hope Initiative
           </span>
 
           <h1 className="text-5xl font-bold leading-tight text-white md:text-7xl">
