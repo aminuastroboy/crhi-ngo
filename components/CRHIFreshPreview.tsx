@@ -294,7 +294,7 @@ export default function CRHIFreshPreview() {
               />
 
               <textarea
-                rows="6"
+                rows={6}
                 placeholder="Tell us why you want to volunteer"
                 className="w-full rounded-2xl border border-slate-300 px-5 py-4"
               ></textarea>
@@ -390,7 +390,7 @@ export default function CRHIFreshPreview() {
                 />
 
                 <textarea
-                  rows="6"
+                  rows={6}
                   placeholder="Write update content..."
                   className="w-full rounded-2xl bg-slate-800 px-5 py-4 text-white"
                 ></textarea>
