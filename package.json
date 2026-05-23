@@ -1,5 +1,5 @@
 {
-  "name": "crhi-complete-platform",
+  "name": "crhi-final-platform",
   "private": true,
   "scripts": {
     "dev": "next dev",
