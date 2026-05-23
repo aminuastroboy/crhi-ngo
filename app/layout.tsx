@@ -1,8 +1,7 @@
-
 import './globals.css';
 
 export const metadata = {
-  title: 'CRHI NGO',
+  title: 'CRHI NGO Platform',
   description: 'Children Raybridge of Hope Initiative',
 };
 
