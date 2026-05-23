@@ -1,8 +1,7 @@
 
 'use client';
-
-import CRHIFreshPreview from '../components/CRHIFreshPreview';
+import CRHIPlatform from '../components/CRHIPlatform';
 
 export default function Page() {
-  return <CRHIFreshPreview />;
+  return <CRHIPlatform />;
 }
