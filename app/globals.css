@@ -10,6 +10,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: white;
+  overflow-x: hidden;
+  background: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
 }
