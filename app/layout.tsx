@@ -1,10 +1,10 @@
 
-export const metadata = {
-  title: "Children Raybridge of Hope Initiative",
-  description: "Empowering vulnerable children and communities across Northeast Nigeria."
-};
+import './globals.css';
 
-import "./globals.css";
+export const metadata = {
+  title: 'CRHI NGO',
+  description: 'Children Raybridge of Hope Initiative',
+};
 
 export default function RootLayout({
   children,
