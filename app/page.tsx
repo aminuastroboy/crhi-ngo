@@ -1,6 +1,6 @@
 export default function CRHIHomepage() {
   const stats = [
-    ['500+', 'Children Supported'],
+    ['500+', 'Children''s' Supported'],
     ['50+', 'Families Empowered'],
     ['10+', 'Communities Reached'],
     ['2022', 'Founded'],
