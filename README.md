@@ -1,4 +1,4 @@
-# CRHI NGO Platform
+# CRHI Complete NGO Platform
 
 npm install
 npm run dev
