@@ -46,7 +46,7 @@ export default function CRHIHomepage() {
   return (
     <div className="min-h-screen bg-white text-slate-800">
       <section
-        className="relative h-screen flex items-center justify-center bg-cover bg-center"
+        className="relative min-h-screen flex items-center justify-center bg-cover bg-center"
         style={{ backgroundImage: "url('/images/crhi-hero.jpg')" }}
       >
         <div className="absolute inset-0 bg-blue-950/75" />
@@ -98,12 +98,12 @@ export default function CRHIHomepage() {
         </div>
       </section>
 
-      <section className="relative z-20 -mt-16 px-6">
+      <section className="relative z-10 bg-white px-6 py-12">
         <div className="mx-auto grid max-w-6xl grid-cols-2 gap-6 md:grid-cols-4">
           {stats.map(([num, label]) => (
             <div
               key={label}
-              className="rounded-3xl border border-slate-100 bg-white p-8 text-center shadow-2xl"
+              className="rounded-3xl border border-slate-100 bg-white p-8 text-center shadow-lg transition duration-300 hover:-translate-y-1"
             >
               <h2 className="text-4xl font-bold text-blue-900">{num}</h2>
               <p className="mt-2 text-slate-600">{label}</p>

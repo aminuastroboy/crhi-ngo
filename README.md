@@ -4,13 +4,25 @@
 ## Install
 npm install
 
-## Run locally
+## Run Development
 npm run dev
 
-## Deploy
-Push to GitHub and import into Vercel.
+## Production Build
+npm run build
 
-## Images
-Place your NGO images inside:
+## Deploy to Vercel
+Push to GitHub then import into Vercel.
+
+## Add Images
+Put your images inside:
 
 public/images/
+
+Required:
+- crhi-logo.png
+- crhi-hero.jpg
+- crhi-community.jpg
+- crhi-gallery-1.jpg
+- crhi-gallery-2.jpg
+- crhi-gallery-3.jpg
+- crhi-gallery-4.jpg
