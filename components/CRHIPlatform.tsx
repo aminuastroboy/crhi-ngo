@@ -255,7 +255,7 @@ export default function CRHIPlatform() {
                 <p className="mt-4 text-slate-600">
                   To empower and protect children and youth by providing access to education, life skills, protection services, and supportive community systems that help them overcome barriers and reach their full potential.
                 </p>
-                <b></b>
+                <h4 className="text-2xl font-bold text-orange-500">---</h4>
                 <h3 className="text-2xl font-bold text-orange-500">Vision</h3>
                 <p className="mt-4 text-slate-600">
                   A society where every child and young person has access to quality education, protection, mentorship, and opportunities to grow into confident, capable, and responsible leaders.
