@@ -111,7 +111,7 @@ export default function CRHIPlatform() {
             </h2>
 
             <p className="mt-6 text-lg text-slate-600">
-              CRHI is a Nigerian nonprofit organization registered with CAC No. 9000126 focused on child protection, education, and humanitarian development.
+              Children's Raybridge Of Hope Initiative was founded in response to educational disruption, child protection risks, poverty, and limited access to essential services affecting conflict- and poverty-affected communities. The organization operates using a rights-based, protection-centered, and community-driven approach.
             </p>
 
             <button
