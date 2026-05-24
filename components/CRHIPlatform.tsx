@@ -200,7 +200,7 @@ export default function CRHIPlatform() {
           <div className="mt-10 space-y-5 text-lg text-slate-700">
             <p><strong>Address:</strong> No. 6 Jalingo Street, Yola Town, Adamawa State</p>
             <p><strong>Phone:</strong> 08065849073 / 08124976657</p>
-            <p><strong>Email:</strong> wudengiyajohn11@gmail.com</p>
+            <p><strong>Email:</strong> support@crhinitiative.org</p>
           </div>
         </div>
       </section>
