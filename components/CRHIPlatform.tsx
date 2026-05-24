@@ -251,6 +251,13 @@ export default function CRHIPlatform() {
 
             <div className="mt-10 grid gap-10 lg:grid-cols-2">
               <div>
+                 <h3 className="text-2xl font-bold text-orange-500">Overview</h3>
+                <p className="mt-4 text-slate-600">
+                  Children Raybridge of Hope Initiative (CRHI) is a Nigerian nonprofit; non-governmental organization registered with the Corporate Affairs Commission (CAC No. 9000126). Established in 2022 as a grassroots child-focused initiative in Lamurde LGA, Adamawa State, CRHI has grown into a community-rooted humanitarian and development organization working to improve the protection, education, and resilience of vulnerable children, youth, and families in Northeast Nigeria.
+CRHI was founded in response to educational disruption, child protection risks, poverty, and limited access to essential services affecting conflict- and poverty-affected communities. The organization operates using a rights-based, protection-centered, and community-driven approach.
+                </p>
+
+                <h4 className="text-2xl font-bold text-orange-500">---</h4>
                 <h3 className="text-2xl font-bold text-orange-500">Mission</h3>
                 <p className="mt-4 text-slate-600">
                   To empower and protect children and youth by providing access to education, life skills, protection services, and supportive community systems that help them overcome barriers and reach their full potential.
