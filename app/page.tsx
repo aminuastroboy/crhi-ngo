@@ -1,4 +1,3 @@
-
 'use client';
 import CRHIPlatform from '../components/CRHIPlatform';
 
