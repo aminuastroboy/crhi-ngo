@@ -272,10 +272,12 @@ CRHI was founded in response to educational disruption, child protection risks, 
               <div>
                 <h3 className="text-2xl font-bold text-orange-500">Core Values</h3>
                 <ul className="mt-5 space-y-3 text-slate-700">
-                  <li>• Hope</li>
-                  <li>• Equity</li>
-                  <li>• Accountability</li>
-                  <li>• Innovation</li>
+                  <li>• Hope: We believe in the dignity and potential of every child.</li>
+                  <li>• Equity: We promote inclusion and equal opportunities for the most vulnerable.</li>
+                  <li>• Accountability: We are transparent and responsible to communities, partners, and donors.</li>
+                  <li>• Innovation: We use creative, evidence-informed solutions.</li>
+                  <li>• Sustainability: We support long-term, community-owned change.</li>
+                  <li>• Safeguarding: We maintain zero tolerance for abuse, exploitation, and harm.</li>
                 </ul>
               </div>
             </div>
