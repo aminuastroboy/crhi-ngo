@@ -253,7 +253,11 @@ export default function CRHIPlatform() {
               <div>
                 <h3 className="text-2xl font-bold text-orange-500">Mission</h3>
                 <p className="mt-4 text-slate-600">
-                  To empower and protect children and youth through education and protection services.
+                  To empower and protect children and youth by providing access to education, life skills, protection services, and supportive community systems that help them overcome barriers and reach their full potential.
+                </p>
+                <h3 className="text-2xl font-bold text-orange-500">Vision</h3>
+                <p className="mt-4 text-slate-600">
+                  A society where every child and young person has access to quality education, protection, mentorship, and opportunities to grow into confident, capable, and responsible leaders.
                 </p>
               </div>
 
@@ -380,7 +384,7 @@ export default function CRHIPlatform() {
         </p>
 
         <p className="mt-8 text-sm text-slate-500">
-          Powered by Astrovia Enterprise
+          Technlogy Partners: Astrovia Enterprise
         </p>
       </footer>
     </div>
