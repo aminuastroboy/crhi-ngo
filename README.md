@@ -1,4 +1,1 @@
-# CRHI Complete NGO Platform
-
-npm install
-npm run dev
+# CRHI Enterprise NGO Platform\n\nProduction-ready NGO platform for CRHI.
