@@ -1,1 +1,1 @@
-# CRHI Enterprise NGO Platform\n\nProduction-ready NGO platform for CRHI.
+# CRHI Enterprise NGO Platform
