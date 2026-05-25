@@ -1,6 +1,7 @@
+
 'use client';
-import CRHIPlatform from '../components/CRHIPlatform';
+import CRHIEnterprisePlatform from '../components/CRHIEnterprisePlatform';
 
 export default function Page() {
-  return <CRHIPlatform />;
+  return <CRHIEnterprisePlatform />;
 }

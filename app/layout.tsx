@@ -1,9 +1,5 @@
-import './globals.css';
 
-export const metadata = {
-  title: 'CRHI NGO Platform',
-  description: 'Children Raybridge of Hope Initiative',
-};
+import './globals.css';
 
 export default function RootLayout({ children }) {
   return (
